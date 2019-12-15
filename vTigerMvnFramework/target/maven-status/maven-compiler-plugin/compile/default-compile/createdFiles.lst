@@ -1,0 +1,5 @@
+com\vTigerMvnFramework\genericLib\Base.class
+com\vTigerMvnFramework\Pages\LoginPage.class
+com\vTigerMvnFramework\genericLib\ListenerImpClass.class
+com\vTigerMvnFramework\Pages\HomePage.class
+com\vTigerMvnFramework\genericLib\FileLib.class
