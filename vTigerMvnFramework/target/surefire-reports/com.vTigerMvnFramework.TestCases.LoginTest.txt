@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.vTigerMvnFramework.TestCases.LoginTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32.911 s <<< FAILURE! - in com.vTigerMvnFramework.TestCases.LoginTest
-loginTest(com.vTigerMvnFramework.TestCases.LoginTest)  Time elapsed: 0.863 s  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at com.vTigerMvnFramework.TestCases.LoginTest.loginTest(LoginTest.java:16)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 39.044 s - in com.vTigerMvnFramework.TestCases.LoginTest

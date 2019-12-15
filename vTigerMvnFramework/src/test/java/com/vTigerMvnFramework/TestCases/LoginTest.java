@@ -13,6 +13,6 @@ public class LoginTest extends Base
 	public void loginTest()
 	{
 		System.out.println("LoginSuccessful");
-		//Assert.assertTrue(false);
+		System.out.println("Bye");
 	}
 }
